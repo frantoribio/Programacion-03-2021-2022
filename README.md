@@ -2,7 +2,7 @@
 
 Tema 03 Aplicación de Estructuras de Almacenamiento. 1DAM. Curso 2021/2022.
 
-![imagen](https://thesoftclix.com/wp-content/uploads/2019/09/unnamed-1.png)
+
 
 ## Contenidos
 1. Arrays unidimensionales. 
