@@ -1,6 +1,6 @@
 # Programación - 03 Aplicación de Estructuras de Almacenamiento
 
-Tema 03 Aplicación de Estructuras de Almacenamiento. 1DAM. Curso 2021/2022.
+Tema 03 Aplicación de Estructuras de Almacenamiento. 1DAM. Curso 2021/2022. 
 
 
 
@@ -9,8 +9,8 @@ Tema 03 Aplicación de Estructuras de Almacenamiento. 1DAM. Curso 2021/2022.
 2. Arrays multidimensionales. 
 3. Cadenas de caracteres. 
 4. Expresiones regulares. 
-5. Métodos de ordenación
-6. Métodos de búsqueda
+5. Métodos de ordenación.
+6. Métodos de búsqueda.
 
 ## Recursos
 - Twitter: https://twitter.com/joseluisgonsan
